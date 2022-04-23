@@ -74,6 +74,10 @@ h1 {
   }
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
 
 .prestations {
   display: flex;
@@ -140,4 +144,5 @@ footer img {
   width: 75px;
 
 }
+
 
